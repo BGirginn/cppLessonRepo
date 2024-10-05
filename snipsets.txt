@@ -1,0 +1,30 @@
+ctrl shitf p
+snipsets > configure snipsets
+choose which language u want create a snipsets
+
+THESE FOR CPP LESSONS 
+
+{
+
+    "cppcikti": {
+        "prefix": "cppcikti",        // Kısayol
+        "body": [
+            "cout<<  <<endl;",
+        ],
+        "description": "cikti satiri"  // Açıklama
+    },
+
+	"cppstart": {
+        "prefix": "cppstart",        // Kısayol
+        "body": [
+            "#include <stdio.h>",
+			"#include <iostream>",
+			"using namespace std;",
+			"int main(){",
+			"",
+			"return 0",
+			"}",
+        ],
+        "description": "cikti satiri"  // Açıklama
+    }
+}
