@@ -32,3 +32,11 @@ int hesapla(int sayi1, int sayi2, int sayi3)
 
     return enKucuk;
 }
+//! int hesapla içine int sayi1 sayi2 sayi3 yazma sebebimiz int sonuc= hesapla (2,5,9) yazarsan direkt sayi 1 2 3 yerine o sayılar ile çağırır
+
+/* int hesapla(int sayi1, int sayi2, int sayi3)
+{
+    return (sayi1 < sayi2 && sayi1 < sayi3) ? sayi1 : (sayi2 < sayi3 ? sayi2 : sayi3);
+}
+*/
+//? farklı bir kullanım yöntemi
