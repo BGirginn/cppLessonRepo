@@ -1,0 +1,86 @@
+[
+{
+  "directory": "D:/Bora/Yazilim/cpp/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\cpp.dir\\05.cpp.obj -c D:\\Bora\\Yazilim\\cpp\\05.cpp",
+  "file": "D:/Bora/Yazilim/cpp/05.cpp",
+  "output": "CMakeFiles/cpp.dir/05.cpp.obj"
+},
+{
+  "directory": "D:/Bora/Yazilim/cpp/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\cpp.dir\\11.cpp.obj -c D:\\Bora\\Yazilim\\cpp\\11.cpp",
+  "file": "D:/Bora/Yazilim/cpp/11.cpp",
+  "output": "CMakeFiles/cpp.dir/11.cpp.obj"
+},
+{
+  "directory": "D:/Bora/Yazilim/cpp/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\cpp.dir\\14.cpp.obj -c D:\\Bora\\Yazilim\\cpp\\14.cpp",
+  "file": "D:/Bora/Yazilim/cpp/14.cpp",
+  "output": "CMakeFiles/cpp.dir/14.cpp.obj"
+},
+{
+  "directory": "D:/Bora/Yazilim/cpp/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\cpp.dir\\15.cpp.obj -c D:\\Bora\\Yazilim\\cpp\\15.cpp",
+  "file": "D:/Bora/Yazilim/cpp/15.cpp",
+  "output": "CMakeFiles/cpp.dir/15.cpp.obj"
+},
+{
+  "directory": "D:/Bora/Yazilim/cpp/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\cpp.dir\\20.cpp.obj -c D:\\Bora\\Yazilim\\cpp\\20.cpp",
+  "file": "D:/Bora/Yazilim/cpp/20.cpp",
+  "output": "CMakeFiles/cpp.dir/20.cpp.obj"
+},
+{
+  "directory": "D:/Bora/Yazilim/cpp/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\cpp.dir\\22.cpp.obj -c D:\\Bora\\Yazilim\\cpp\\22.cpp",
+  "file": "D:/Bora/Yazilim/cpp/22.cpp",
+  "output": "CMakeFiles/cpp.dir/22.cpp.obj"
+},
+{
+  "directory": "D:/Bora/Yazilim/cpp/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\cpp.dir\\32.cpp.obj -c D:\\Bora\\Yazilim\\cpp\\32.cpp",
+  "file": "D:/Bora/Yazilim/cpp/32.cpp",
+  "output": "CMakeFiles/cpp.dir/32.cpp.obj"
+},
+{
+  "directory": "D:/Bora/Yazilim/cpp/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\cpp.dir\\33.cpp.obj -c D:\\Bora\\Yazilim\\cpp\\33.cpp",
+  "file": "D:/Bora/Yazilim/cpp/33.cpp",
+  "output": "CMakeFiles/cpp.dir/33.cpp.obj"
+},
+{
+  "directory": "D:/Bora/Yazilim/cpp/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\cpp.dir\\35.cpp.obj -c D:\\Bora\\Yazilim\\cpp\\35.cpp",
+  "file": "D:/Bora/Yazilim/cpp/35.cpp",
+  "output": "CMakeFiles/cpp.dir/35.cpp.obj"
+},
+{
+  "directory": "D:/Bora/Yazilim/cpp/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\cpp.dir\\36.cpp.obj -c D:\\Bora\\Yazilim\\cpp\\36.cpp",
+  "file": "D:/Bora/Yazilim/cpp/36.cpp",
+  "output": "CMakeFiles/cpp.dir/36.cpp.obj"
+},
+{
+  "directory": "D:/Bora/Yazilim/cpp/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\cpp.dir\\37.cpp.obj -c D:\\Bora\\Yazilim\\cpp\\37.cpp",
+  "file": "D:/Bora/Yazilim/cpp/37.cpp",
+  "output": "CMakeFiles/cpp.dir/37.cpp.obj"
+},
+{
+  "directory": "D:/Bora/Yazilim/cpp/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\cpp.dir\\38.cpp.obj -c D:\\Bora\\Yazilim\\cpp\\38.cpp",
+  "file": "D:/Bora/Yazilim/cpp/38.cpp",
+  "output": "CMakeFiles/cpp.dir/38.cpp.obj"
+},
+{
+  "directory": "D:/Bora/Yazilim/cpp/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\cpp.dir\\39.cpp.obj -c D:\\Bora\\Yazilim\\cpp\\39.cpp",
+  "file": "D:/Bora/Yazilim/cpp/39.cpp",
+  "output": "CMakeFiles/cpp.dir/39.cpp.obj"
+},
+{
+  "directory": "D:/Bora/Yazilim/cpp/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\cpp.dir\\40(atm).cpp.obj -c D:\\Bora\\Yazilim\\cpp\\40(atm).cpp",
+  "file": "D:/Bora/Yazilim/cpp/40(atm).cpp",
+  "output": "CMakeFiles/cpp.dir/40(atm).cpp.obj"
+}
+]
