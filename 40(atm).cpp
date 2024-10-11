@@ -6,19 +6,20 @@ using namespace std;
 
 // TODO Fatura ve benzeri işlemler eklenecek
 void menu();
-int bakiyeSorgula(int);
+void bakiyeSorgula(int);
 int main(int argc, char const *argv[])
 {
     int secenekler;
     int paraMiktari = 5000;
     while (true)
     {
+        system("cls");
         menu();
         cin >> secenekler;
         switch (secenekler)
         {
         case 1:
-            cout << "Bakiyeniz: " << bakiyeSorgula(paraMiktari) << endl;
+            bakiyeSorgula(paraMiktari);
             break;
         case 2:
 
@@ -47,8 +48,8 @@ void menu()
     cout << "Seçiminiz: " << endl;
 }
 
-int bakiyeSorgula(int paraMiktari)
+void bakiyeSorgula(int paraMiktari)
 {
-
-    cout<< paraMiktari <<endl;;
+    cout << "Bakiyeniz: " << paraMiktari << endl;
+    system("pause");
 }
