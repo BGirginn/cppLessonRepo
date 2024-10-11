@@ -42,13 +42,13 @@ void menu()
 {
     cout << "1. Bakiye Sorgula." << endl;
     cout << "2. Para Yatır." << endl;
-    cout << "3. Para Çek." << endl;
-    cout << "4. Çıkış." << endl;
+    cout << "3. Para Cek." << endl;
+    cout << "4. Cikis." << endl;
     cout << "Seçiminiz: " << endl;
 }
 
 int bakiyeSorgula(int paraMiktari)
 {
 
-    return paraMiktari;
+    cout<< paraMiktari <<endl;;
 }

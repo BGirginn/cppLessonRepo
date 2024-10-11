@@ -1,3 +1,0 @@
-D:/Bora/Yazilim/cpp/build/CMakeFiles/cpp.dir
-D:/Bora/Yazilim/cpp/build/CMakeFiles/edit_cache.dir
-D:/Bora/Yazilim/cpp/build/CMakeFiles/rebuild_cache.dir
