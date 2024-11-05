@@ -46,7 +46,7 @@ int main(){
 }
 
 int toplam (int sayi){
-    if (sayi >= 1)
+    if (sayi >=1 1)
     {
         return sayi + toplam(sayi - 1);
     }
