@@ -18,7 +18,6 @@ THESE FOR CPP LESSONS
         "prefix": "cppstart",        // Kısayol
         "body": [
             "#include <stdio.h>",
-            "#include <cmath>",
 			"#include <iostream>",
 			"using namespace std;",
 			"int main(){",
